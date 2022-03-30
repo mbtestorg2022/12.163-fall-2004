@@ -6,6 +6,7 @@ description: 'Lecture presentation covering the following topics: River incision
   Incising Channels (Alluvial but Erosional).'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-163-surface-processes-and-landscape-evolution-fall-2004/f1ae0c0c43cba449fac63a8815c00e15_week11_2.pdf
 file_type: application/pdf
+parent_uid: d416de0f-15af-c9cd-c83e-11aea6b10318
 resourcetype: Document
 title: week11_2.pdf
 uid: f1ae0c0c-43cb-a449-fac6-3a8815c00e15

@@ -6,6 +6,7 @@ description: 'Lecture presentation covering the following topics: Very long time
   and Conservation of mass of rock.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-163-surface-processes-and-landscape-evolution-fall-2004/aa4f170d59e44e87226cc36f0cdeab24_7_bedrock_channels.pdf
 file_type: application/pdf
+parent_uid: d416de0f-15af-c9cd-c83e-11aea6b10318
 resourcetype: Document
 title: 7_bedrock_channels.pdf
 uid: aa4f170d-59e4-4e87-226c-c36f0cdeab24

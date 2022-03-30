@@ -7,6 +7,7 @@ description: 'Lecture presentation covering the following topics: Definitions: T
   soil production.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-163-surface-processes-and-landscape-evolution-fall-2004/84731c7a9e7b22204a08ede58e0c74bd_week7_8_2.pdf
 file_type: application/pdf
+parent_uid: d416de0f-15af-c9cd-c83e-11aea6b10318
 resourcetype: Document
 title: week7_8_2.pdf
 uid: 84731c7a-9e7b-2220-4a08-ede58e0c74bd

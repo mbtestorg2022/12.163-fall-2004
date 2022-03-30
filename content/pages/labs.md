@@ -28,7 +28,7 @@ Lab 4
 
 Hillslope Profile Modeling (1-D) ([PDF]({{< baseurl >}}/resources/hillslop_mdl_lab))
 
-hillslope\_profile3.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-163-surface-processes-and-landscape-evolution-fall-2004/labs/hillslope_profile3.m))
+hillslope\_profile3.m ({{% resource_link "751aa5fa-3cf1-4b75-295c-d70ec237e5be" "M" %}})
 
 Lab 5
 -----
